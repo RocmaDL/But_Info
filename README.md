@@ -12,5 +12,5 @@
 
 
 `print("Hello World")`
-   `
+
 [Lien vec killercoda](https://killercoda.com/emelin)
