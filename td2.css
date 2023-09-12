@@ -1,0 +1,34 @@
+header a{
+    color: blue;
+    font-style: normal;
+    
+}
+
+nav{
+padding: 50px;
+right: 45%;
+    
+}
+article{
+    width: 600px;
+    padding: 0px 100px 0px 0px;
+}
+aside{
+    width: 330px;
+    padding: 0px 50px 0px 300px;
+}
+section{
+    display: flex;
+    border: 15px;
+    border-color: black;
+    padding: 0px 50px 0px 50px;
+}
+div{
+    display: grid;
+}
+footer{
+    padding: 0px 50px 0px 50px;
+}
+h1{
+    padding: 0px 50px 0px 50px;
+}
