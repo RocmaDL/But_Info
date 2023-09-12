@@ -1,3 +1,26 @@
+#---EXERCICE 5
+def algo1(a,b,c,d):
+    if a < b:
+        res = a
+    else:
+        res = b
+    if c < res:
+        res = c
+    if d < res:
+        res = d
+    return res
+
+def algo2(m):
+    res = 0
+    for l in m:
+        if l in "aeiouy":
+            res += 1
+        else:
+            res -= 1
+    return(res>0)
+
+
+#---EXERCICE 6
 def qualif(genre,temps, champion):
     """Fonction qui vérifie si un atlète est qualifié
 
@@ -13,7 +36,7 @@ def qualif(genre,temps, champion):
     return False
 
 
-
+#---EXERCICE 7
 def contravention(depassement_vitesse, vitesse_zone, recidive):
     """Fonction qui donne les sanctions encourues par un automobiliste en fonction de son dépassement en entrée.
 
