@@ -10,6 +10,8 @@ def algo1(a,b,c,d):
         res = d
     return res
 
+
+f
 def algo2(m):
     res = 0
     for l in m:
