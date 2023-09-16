@@ -21,7 +21,7 @@ def algo2(m):
             res -= 1
     return(res>0)
 
-
+Prout
 #---EXERCICE 6
 def qualif(genre,temps, champion):
     """Fonction qui vérifie si un atlète est qualifié
